@@ -1,0 +1,15 @@
+{
+  "estimator": "logistic_regression",
+  "scaler": "QuantileTransformer",
+  "test_accuracy": 1.0,
+  "best_cv_accuracy": 0.9991666666666668,
+  "best_params": {
+    "clf__C": 98.77700294007911,
+    "clf__solver": "saga"
+  },
+  "n_train": 1200,
+  "n_test": 300,
+  "full_dataset_size": 1500,
+  "saved_fit": "full_dataset",
+  "saved_rows": 1500
+}
