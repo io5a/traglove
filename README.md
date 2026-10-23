@@ -1,8 +1,8 @@
-# Manusa
+# Traglove
 
 **A sensor glove that turns hand gestures into text.**
 
-Manusa combines a flex-sensor glove, a KiCad sensor board, a machine-learning classifier, and a small HTTP API. The repository is organized by component so the hardware and software can be explored independently.
+Traglove combines a flex-sensor glove, a KiCad sensor board, a machine-learning classifier, and a small HTTP API. The repository is organized by component so the hardware and software can be explored independently.
 
 ## Project map
 
